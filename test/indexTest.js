@@ -1,6 +1,4 @@
-const sinon = require('sinon');
-
-describe("index.js", () => {
+("index.js", () => {
   let input;
 
   beforeEach(function() {
